@@ -5,7 +5,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Niobium-41-nb/Niobium-41-nb)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Niobium-41-nb/Niobium-41-nb)
 
-**Languages**: [English](#) | [中文](README_ZH.md)
+**Languages**: [English](#) | [中文](README_ZH.md) | [Concise Version](README.md)
 
 An undergraduate student majoring in computer-related fields at Huazhong Agricultural University (a 211 Project university in China), passionate about algorithm competitions and full-stack development.
 
