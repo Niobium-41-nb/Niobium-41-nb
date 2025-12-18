@@ -1,129 +1,56 @@
-# 👋 你好，我是 Niobium-41-nb (vanadium-23)
+# 👋 你好，我是 @Niobium-41-nb
 
-![GitHub followers](https://img.shields.io/github/followers/Niobium-41-nb?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/Niobium-41-nb?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/Niobium-41-nb/Niobium-41-nb)
-![GitHub repo size](https://img.shields.io/github/repo-size/Niobium-41-nb/Niobium-41-nb)
+![GitHub followers](https://img.shields.io/badge/github/followers/Niobium-41-nb?style=social)
+![GitHub User's stars](https://img.shields.io/badge/github/stars/Niobium-41-nb?style=social)
 
-**语言**: [English](README.md) | [中文](#)
+**语言**: [English](README.md) | [中文](#) | [详细版本](README_ZH_DETAILED.md)
 
-一名来自华中农业大学（211高校）的计算机相关专业本科生，热衷于算法竞赛和全栈开发。
+## 🎯 简要介绍
 
-## 🏆 竞赛成就
+- 🏫 **本科生**，就读于华中农业大学（211工程高校）
+- 🏆 **ICPC/CCPC获奖者**（ICPC西安铜牌，CCPC郑州银牌）
+- 💻 **全栈开发者**，热衷于算法竞赛
+- 🚀 **开源贡献者**，拥有多个工具项目
 
-| 赛事 | 奖项 | 年份 |
-|------|------|------|
-| ICPC 西安邀请赛 | 🥉 铜牌 | 2025 |
-| CCPC 郑州邀请赛 | 🥈 银牌 | 2025 |
-| ICPC 亚洲区域赛（西安） | 🥉 铜牌 | 第50届 |
-| 学校ACM队 | 正式队员 | 2024-至今 |
+## 🏆 主要成就
 
-## 🎓 教育背景
+| 赛事 | 奖项 |
+|------|------|
+| ICPC 西安邀请赛 | 🥉 铜牌 |
+| CCPC 郑州邀请赛 | 🥈 银牌 |
+| ICPC 亚洲区域赛（西安） | 🥉 铜牌 |
 
-- **学校**：华中农业大学（211工程高校）
-- **专业**：计算机科学与技术
-- **状态**：本科在读
-- **研究方向**：算法设计、Web开发、数据库系统
+## 💡 核心技能
 
-## 💻 技术栈
+**编程语言**: Python · C++ · JavaScript · TypeScript · Java  
+**框架技术**: Flask · React · Vue.js · Node.js  
+**开发工具**: Git · VS Code · Docker · MySQL
 
-### 编程语言
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+## 🔗 快速链接
 
-### 前端技术
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+- 📖 **[详细介绍](README_ZH_DETAILED.md)** - 完整个人介绍、项目展示和GitHub统计
+- 🇬🇧 **[English Version](README.md)** - 英文版本
+- 📧 **邮箱**: 1453070926@qq.com
+- 📝 **博客**: [牛客博客](https://blog.nowcoder.net/vanadium23)
+- 📍 **位置**: 中国 · 武汉
 
-### 后端技术
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## 🚀 主要项目
 
-### 工具与平台
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+1. **[Duipai-Toolkit](https://github.com/Niobium-41-nb/Duipai-Toolkit)** - 算法竞赛对拍工具 (⭐9)
+2. **[ZIP_To_PDF](https://github.com/Niobium-41-nb/ZIP_To_PDF)** - Flask压缩包转PDF工具 (⭐3)
+3. **[Algorithm-Design-Code-Translation-](https://github.com/Niobium-41-nb/Algorithm-Design-Code-Translation-)** - 算法伪代码转C++ (⭐2)
 
-## 🚀 精选项目
-
-### 1. [ZIP_To_PDF](https://github.com/Niobium-41-nb/ZIP_To_PDF) - Flask压缩包转PDF工具
-![Python](https://img.shields.io/badge/Python-Flask-blue)
-![Stars](https://img.shields.io/github/stars/Niobium-41-nb/ZIP_To_PDF?style=flat-square)
-![Forks](https://img.shields.io/github/forks/Niobium-41-nb/ZIP_To_PDF?style=flat-square)
-
-一个基于Flask的Web应用，可以将压缩包中的文件转换为PDF格式，支持批量处理。
-
-### 2. [Duipai-Toolkit](https://github.com/Niobium-41-nb/Duipai-Toolkit) - 算法竞赛对拍工具
-![JavaScript](https://img.shields.io/badge/JavaScript-Node.js-yellow)
-![Stars](https://img.shields.io/github/stars/Niobium-41-nb/Duipai-Toolkit?style=flat-square)
-![License](https://img.shields.io/github/license/Niobium-41-nb/Duipai-Toolkit?style=flat-square)
-
-为算法竞赛选手设计的对拍工具，支持多语言测试用例生成和结果比对。
-
-### 3. [Algorithm-Design-Code-Translation-](https://github.com/Niobium-41-nb/Algorithm-Design-Code-Translation-) - 算法伪代码转C++
-![C++](https://img.shields.io/badge/C++-MIT_License-red)
-![Stars](https://img.shields.io/github/stars/Niobium-41-nb/Algorithm-Design-Code-Translation-?style=flat-square)
-
-算法设计课程中伪代码到C++代码的转换工具，包含常见算法的实现。
-
-### 4. [ppt-viewer-vscode](https://github.com/Niobium-41-nb/ppt-viewer-vscode) - VS Code PPT查看插件
-![TypeScript](https://img.shields.io/badge/TypeScript-VS_Code_Extension-purple)
-![Stars](https://img.shields.io/github/stars/Niobium-41-nb/ppt-viewer-vscode?style=flat-square)
-
-在VS Code中直接查看PPT文件的插件，提升学习效率。
-
-## 📊 GitHub 统计数据
-
-<div align="center">
-  
-![Niobium-41-nb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Niobium-41-nb&show_icons=true&theme=radical&count_private=true&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niobium-41-nb&layout=compact&theme=radical&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Niobium-41-nb&theme=radical)
-
-</div>
-
-## 📫 联系我
-
-- **邮箱**: 1453070926@qq.com
-- **博客**: [牛客博客](https://blog.nowcoder.net/vanadium23)
-- **GitHub**: [@Niobium-41-nb](https://github.com/Niobium-41-nb)
-- **位置**: 中国 · 武汉
-
-## 🌱 当前学习方向
-
-- 深入算法设计与分析
-- 分布式系统与微服务架构
-- 人工智能与机器学习基础
-- 云原生技术栈（Kubernetes, Docker）
-
-## 🤝 合作意向
+## 🤝 合作交流
 
 我对于以下类型的项目感兴趣：
-- 算法竞赛相关工具开发
+- 算法竞赛工具开发
 - 教育技术类应用
 - 开源项目贡献
 - 学术研究合作
 
 ---
 
-<div align="center">
-  
-**感谢访问我的GitHub主页！** 
-
-⭐️ 如果你喜欢我的项目，请给它们点个Star！
-
-📧 欢迎通过邮件或GitHub Issues联系我
-
-</div>
+*如需查看完整介绍、详细技术栈和GitHub统计数据，请访问[详细版本](README_ZH_DETAILED.md)。*
 
 <!---
 Niobium-41-nb/Niobium-41-nb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
