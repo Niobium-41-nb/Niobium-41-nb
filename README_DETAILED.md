@@ -11,12 +11,20 @@ An undergraduate student majoring in computer-related fields at Huazhong Agricul
 
 ## 🏆 Competition Achievements
 
-| Competition | Award | Year |
-|-------------|-------|------|
-| ICPC Xi'an Invitational Contest | 🥉 Bronze Medal | 2025 |
-| CCPC Zhengzhou Invitational Contest | 🥈 Silver Medal | 2025 |
-| ICPC Asia Regional Contest (Xi'an) | 🥉 Bronze Medal | 50th |
-| School ACM Team | Official Member | 2024-Present |
+| Competition | Award |
+|-------------|-------|
+| ICPC National Invitational (Shenyang) | 🥈 Silver Medal |
+| 蓝桥杯 National Final C/C++ University A | 🏅 Third Prize |
+| CCCC Team Programming Ladder (Individual) | 🥈 Second Prize |
+| CCCC Team Programming Ladder · National Finals (Team) | 🥈 Second Prize |
+| CCCC Team Programming Ladder · Hubei (Team) | 🥇 First Prize |
+| Guangxi Collegiate & China-ASEAN ICPC | 🥈 Silver Medal |
+| 蓝桥杯 Provincial C/C++ University A | 🥇 First Prize |
+| ICPC National Invitational (Shaanxi) | 🥈 Silver Medal |
+| ICPC Asia Regional Contest (Xi'an) | 🥉 Bronze Medal |
+| CCPC National Invitational (Zhengzhou) | 🥈 Silver Medal |
+
+> Full and chronological record: [niobium-41-nb.github.io](https://niobium-41-nb.github.io/)
 
 ## 🎓 Education Background
 
@@ -93,9 +101,10 @@ A VS Code extension for viewing PPT files directly within the editor, improving 
 
 ## 📫 Contact Me
 
-- **Email**: 1453070926@qq.com
-- **Blog**: [Nowcoder Blog](https://blog.nowcoder.net/vanadium23)
+- **Email**: 2024317220511@webmail.hzau.edu.cn
 - **GitHub**: [@Niobium-41-nb](https://github.com/Niobium-41-nb)
+- **Bilibili**: [@vanadium](https://space.bilibili.com/1517205544)
+- **Homepage**: [niobium-41-nb.github.io](https://niobium-41-nb.github.io/)
 - **Location**: Wuhan, China
 
 ## 🌱 Currently Learning

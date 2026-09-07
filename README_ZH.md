@@ -30,8 +30,9 @@
 
 - 📖 **[详细介绍](README_ZH_DETAILED.md)** - 完整个人介绍、项目展示和GitHub统计
 - 🇬🇧 **[English Version](README.md)** - 英文版本
-- 📧 **邮箱**: 1453070926@qq.com
-- 📝 **博客**: [牛客博客](https://blog.nowcoder.net/vanadium23)
+- 📧 **邮箱**: 2024317220511@webmail.hzau.edu.cn
+- 📺 **Bilibili**: [@vanadium](https://space.bilibili.com/1517205544)
+- 🌐 **主页**: [niobium-41-nb.github.io](https://niobium-41-nb.github.io/)
 - 📍 **位置**: 中国 · 武汉
 
 ## 🚀 主要项目
