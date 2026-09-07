@@ -1,58 +1,28 @@
-# 👋 Hi, I'm @Niobium-41-nb
+# 👋 Hi, I'm vanadium (@Niobium-41-nb)
 
-![GitHub followers](https://img.shields.io/github/followers/Niobium-41-nb?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/Niobium-41-nb?style=social)
+> 华中农业大学 · 计算机科学与技术 · 算法竞赛选手  
+> **ICPC · CCPC · 团体程序设计天梯赛**
 
-**Languages**: [English](#) | [中文](README_ZH.md) | [Detailed Version](README_DETAILED.md)
+算法竞赛爱好者与技术分享者，用代码解决实际问题，致力于把算法思维带到更广阔的技术领域。
 
-## 🎯 Quick Introduction
-
-- 🏫 **Undergraduate student** at Huazhong Agricultural University (211 Project)
-- 🏆 **ICPC/CCPC Medalist** (Bronze in ICPC Xi'an, Silver in CCPC Zhengzhou)
-- 💻 **Full-stack developer** passionate about algorithm competitions
-- 🚀 **Open source contributor** with multiple tool projects
-
-## 🏆 Key Achievements
-
-| Competition | Award |
-|-------------|-------|
-| ICPC Xi'an Invitational | 🥉 Bronze |
-| CCPC Zhengzhou Invitational | 🥈 Silver |
-| ICPC Asia Regional (Xi'an) | 🥉 Bronze |
-
-## 💡 Core Skills
-
-**Languages**: Python · C++ · JavaScript · TypeScript · Java  
-**Frameworks**: Flask · React · Vue.js · Node.js  
-**Tools**: Git · VS Code · Docker · MySQL
-
-## 🔗 Quick Links
-
-- 📖 **[Detailed Introduction](README_DETAILED.md)** - Full bio, projects, and GitHub stats
-- 🇨🇳 **[中文版本](README_ZH.md)** - Chinese version
-- 📧 **Email**: 1453070926@qq.com
-- 📝 **Blog**: [Nowcoder Blog](https://blog.nowcoder.net/vanadium23)
-- 📍 **Location**: Wuhan, China
-
-## 🚀 Top Projects
-
-1. **[Duipai-Toolkit](https://github.com/Niobium-41-nb/Duipai-Toolkit)** - Algorithm competition testing tool (⭐9)
-2. **[ZIP_To_PDF](https://github.com/Niobium-41-nb/ZIP_To_PDF)** - Flask ZIP to PDF converter (⭐3)
-3. **[Algorithm-Design-Code-Translation-](https://github.com/Niobium-41-nb/Algorithm-Design-Code-Translation-)** - Pseudo-code to C++ (⭐2)
-
-## 🤝 Let's Connect
-
-I'm interested in:
-- Algorithm competition tool development
-- Educational technology projects
-- Open source collaborations
-- Academic research
+**技术栈**：`C++ / STL` · `Python / Flask` · `MySQL` · `Linux / Git` · `HTML / CSS`
 
 ---
 
-*For a complete introduction with detailed projects, tech stack, and GitHub statistics, check out the [Detailed Version](README_DETAILED.md).*
+### 🏆 竞赛荣誉（节选）
 
-<!---
-Niobium-41-nb/Niobium-41-nb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+| 赛事 | 奖项 |
+|---|---|
+| ICPC 全国邀请赛（沈阳 / 陕西） | 🥈 银奖 |
+| CCPC 全国邀请赛（郑州） | 🥈 银奖 |
+| 团体程序设计天梯赛（个人） | 🥈 二等奖 |
+| ICPC 亚洲区域赛（西安） | 🥉 铜奖 |
+| 蓝桥杯国赛 C/C++ 大学 A 组 | 🏅 三等奖 |
+
+> 完整获奖与经历见 [niobium-41-nb.github.io](https://niobium-41-nb.github.io/)
+
+---
+
+### 🔗 联系我
+
+[📧 Email](mailto:2024317220511@webmail.hzau.edu.cn) · [🐙 GitHub](https://github.com/Niobium-41-nb) · [📺 Bilibili](https://space.bilibili.com/1517205544)
